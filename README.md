@@ -15,7 +15,7 @@ Telecom-Customer-Churn-Analysis/
 ├── Mysql/
 │   ├── 01_data_quality.sql
 │   ├── 02_data_cleaning.sql
-│   ├── 03_intermediated_analysis.sql
+│   ├── 03_business_analysis.sql
 │   ├── 04_advanced_analysis.sql
 ├── PowerBi/
 │   └── telecom_churn_dashboard.pbix
